@@ -105,4 +105,44 @@ button {
     font-style: italic;
 }
 
+.sec2-text {
+    width: 70%;
+}
 
+.sec3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+}
+
+.call-act-container {
+    width: 500px;
+    background-color: #3882f6;
+    height: 100px;
+    padding: 30px 100px;
+    border-radius: 2em;
+}
+
+.sec3-title {
+    color: #F9FAF8;
+    font-size: x-large;
+}
+
+.sec3-text {
+    color: #c8c8c8;
+}
+
+.callto {
+    background: none;
+    color: #F9FAF8;
+    font-size: large;
+    border: 2px solid #F9FAF8;
+}
+
+footer {
+    text-align: center;
+    padding: 20px 0;
+    background-color: #1F2937;
+    color: #F9FAF8;
+}
